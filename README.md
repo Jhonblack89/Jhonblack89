@@ -2,12 +2,12 @@
 <p align="center">
   <a href="https://github.com/Jhonblack89">GIT Pofile🚀</a>
   <img src="Picture1.png" align="right" size="small" > 
-<img src="https://user-images.githubusercontent.com/62628408/149734737-cd534c5b-03d9-4ad3-af77-70d6784d98cc.png" align="center" width="50%">
 </p>
 
   #### Studying Web Developer at Cogrammar Bootcamp
   #### Working as IT Engineer
   #### More than 15 years of IT Experience
+  <a href="https://www.linkedin.com/in/pedro-henrique-silva-6b1a2a49">Linkedin Profile
   
 <img src="01.jpg">
 <h1 align="center">Web Developer - HTML</h1>
