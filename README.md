@@ -1,7 +1,7 @@
 ### Pedro Henrique Resende de Menezes Silva👋
 <p align="center">
   <a href="https://github.com/Jhonblack89">GIT Pofile🚀</a>
-  <img class="rounded-circle shadow-4-strong" src="" align="right" size="small" > 
+  <img src="Picture1.png" align="right" size="small" > 
 <img src="https://user-images.githubusercontent.com/62628408/149734737-cd534c5b-03d9-4ad3-af77-70d6784d98cc.png" align="center" width="50%">
 </p>
 
