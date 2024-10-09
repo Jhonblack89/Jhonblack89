@@ -4,7 +4,7 @@
   <img src="Picture1.png" align="right" size="small" > 
 </p>
 
-  #### Studying Web Developer at Cogrammar Bootcamp
+  #### Web Developer at Cogrammar Bootcamp
   #### Working as IT Engineer
   #### More than 15 years of IT Experience
   <a href="https://www.linkedin.com/in/pedro-henrique-silva-6b1a2a49">Linkedin Profile
